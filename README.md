@@ -1,7 +1,7 @@
 # Automating Crypto Website API Pull Project
 
 ## Project Description
-This project automates the retrieval of cryptocurrency data from the CoinMarketCap API, analyzes trends over time, and visualizes the data using Python and popular data analysis libraries. It demonstrates how to work with APIs, process JSON data, and perform data visualization.
+This project automates the retrieval of cryptocurrency data from the [CoinMarketCap API](https://coinmarketcap.com/api/), analyzes trends over time, and visualizes the data using Python and popular data analysis libraries. It demonstrates how to work with APIs, process JSON data, and perform data visualization.
 
 ## Key Features
 - Automated data retrieval from the CoinMarketCap API every minute.
@@ -10,7 +10,7 @@ This project automates the retrieval of cryptocurrency data from the CoinMarketC
 - Visualization of cryptocurrency trends over time.
 
 ## Technologies Used
-- **Programming Languages:** Python
+- **Programming Language:** Python
 - **Libraries:** 
   - `requests`: for making API calls.
   - `pandas`: for data manipulation and analysis.
